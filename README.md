@@ -3,9 +3,13 @@ Task 1 : Write a Python program that does the following:
 1.  Takes two numbers as input from the user.
 2.  Performs the basic mathematical operations on these two numbers:
 o	Addition
+<br>
 o	Subtraction
+<br>
 o	Multiplication
+<br>
 o	Division
+<br>
 
 3.  Displays the results of each operation on the screen.
 <br>
