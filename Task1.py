@@ -1,5 +1,5 @@
-first=eval(input("Enter first number: "))
-second=eval(input("Enter second number: "))
+first=int(input("Enter first number: "))
+second=int(input("Enter second number: "))
 
 sum=first+second
 subtraction=first-second
